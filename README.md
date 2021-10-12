@@ -1,0 +1,2 @@
+# image-process
+This repository's purpose is for me to demonstrate my ability to perform image processing using Python. It comprises two python files and several image files that are either .png or .jpg file type. I implemented the Pillow library to process images. In one file (image.py), I was able to alter the features of an image (i.e. change to black and white or add "blur" feature). In another file (JPGtoPNGconverter.py), I wrote code to change files from jpeg file type to png file type.
